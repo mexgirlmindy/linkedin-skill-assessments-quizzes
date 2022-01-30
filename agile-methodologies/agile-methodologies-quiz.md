@@ -598,3 +598,24 @@
 - [x] The business context for the product.
 
 `A Scrum Team has 3 roles -  Product Owner, Scrum Master and Developers. All 3 roles generate Value in their own contexts; however, it is the Product Owner who maximizes the Value from a product or business context.` [(Source)](https://premieragile.com/how-does-a-product-owner-measure-value)
+
+#### Q84. According to the Agile Manifesto, how often should developers and business people work togather?
+
+- [ ] biweekly
+- [ ] weekly
+- [ ] daily
+- [ ] as often as needed
+
+#### Q85. What does collective ownership mean?
+
+- [ ] The team shares equally in profits that the product generates.
+- [ ] If someone is at fault, then the whole team is at fault.
+- [ ] The team, not the individuals, recieve performace evaluations.
+- [ ] Every memeber of the team can make changes to any part of the code as necessary.
+
+#### Q86. When a user story is further decompsed, what are the elements called?
+
+- [ ] actors and actions
+- [ ] threads
+- [ ] Who, What, Why
+- [ ] technical tasks
